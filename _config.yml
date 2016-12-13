@@ -13,7 +13,7 @@ author: Roberto Ribeiro
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: 
+baseurl: /vitae/
 title: Roberto Ribeiro - currículo
 name: Roberto Ribeiro
 email: robertov82008@gmail.com
