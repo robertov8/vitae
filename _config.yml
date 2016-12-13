@@ -7,29 +7,29 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: http://robertov82008.github.io/vitae
+author: Roberto Ribeiro
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+title: Roberto Ribeiro - currículo
+name: Roberto Ribeiro
+email: robertov82008@gmail.com
+email_full: mailto:robertov82008@gmail.com
+website: robertov82008.github.io
+website_full: http://robertov82008.github.io/
+github: robertov82008
+twitter: robertov82008
+tel: +55 22 9 9905-4769
+tel_full: tel:+5522999054769
+google_maps: 'https://www.google.co.uk/maps/place/Campos%20dos%20goytacazes'
+address: Campos dos Goytacazes
+postcode: 280xx-xxx
+city: Rio de Janeiro
+country: Brasil
+google_analytics: UA-45065933-7
 
 # needed for travis-ci build
 exclude: [vendor]
