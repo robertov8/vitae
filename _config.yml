@@ -7,7 +7,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://robertov82008.github.io/vitae
+url: https://robertov82008.github.io/vitae
 author: Roberto Ribeiro
 
 # edit this section with your information
